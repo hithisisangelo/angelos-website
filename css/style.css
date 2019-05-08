@@ -7,12 +7,37 @@ html, body {
 #logo img {
     margin:0 auto !important;
     padding-top:20px;
-    max-width:20%;
+    max-width:15%;
 }
 #intro p {
     color: white;
-    text-align:center;
     font-family: 'Just Another Hand', cursive;
-    font-size:1.8em;
-    margin: 0 auto;
+    font-size:2em;
+    text-align: center;
+    padding-top:20px;
+    margin-bottom: -10px;
 }
+
+#countdown .counter{
+    text-align:center;
+    font-family: 'Amatic SC', cursive;
+    font-size:1.5em;
+    color:white;
+}
+
+
+#my-icons{
+    display: inline-block;
+    width: 100%;
+    color:#6cadde;
+    
+}
+
+#my-icons ul{
+    color:#6cadde;
+    text-align: center;
+}
+
+
+
+
