@@ -25,16 +25,7 @@ html, body {
     color:white;
 }
 
-
-#my-icons{
-    display: inline-block;
-    width: 100%;
-    color:#6cadde;
-    
-}
-
-#my-icons ul{
-    color:#6cadde;
+#my-div{
     text-align: center;
 }
 
