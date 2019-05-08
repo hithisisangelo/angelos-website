@@ -1,5 +1,5 @@
 html, body {
-    background:url('../img/coffee2.jpeg') center center no-repeat;
+    background:url('../img/background.jpg') center center no-repeat;
     height: 100%;
     background-size:cover;
 }
@@ -7,4 +7,12 @@ html, body {
 #logo img {
     margin:0 auto !important;
     padding-top:20px;
+    max-width:20%;
+}
+#intro p {
+    color: white;
+    text-align:center;
+    font-family: 'Just Another Hand', cursive;
+    font-size:1.8em;
+    margin: 0 auto;
 }
